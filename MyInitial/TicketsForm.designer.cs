@@ -130,7 +130,7 @@
             // 
             // cmdCalculate
             // 
-            this.cmdCalculate.Location = new System.Drawing.Point(294, 268);
+            this.cmdCalculate.Location = new System.Drawing.Point(285, 107);
             this.cmdCalculate.Name = "cmdCalculate";
             this.cmdCalculate.Size = new System.Drawing.Size(108, 35);
             this.cmdCalculate.TabIndex = 10;
